@@ -14,6 +14,16 @@ The user facing site also features
 * ability to choose between english and swedish UI language
 * browsing news by categories such as "economy" and "latest news".
 
+
+## Authors:
+
+[Erik Björn](https://github.com/erikbjoern)  
+[Marcus Sjöqvist](https://github.com/viamarcus)  
+[Jenny Scherr](https://github.com/jysmys)  
+[Steve Watson](https://github.com/designerofthing)  
+[Pauline Barnades](https://github.com/PaulineBA)  
+[Ali Erbay](https://github.com/kermit-klein)  
+
 ## Clone:
 
 The API connects to the three front end clients, the [web app](https://github.com/erikbjoern/newsroom_client-april-2020), [mobile app](https://github.com/erikbjoern/newsroom_mobile-april-2020) and [staff web app](https://github.com/erikbjoern/newsroom_staff-april-2020). 
