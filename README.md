@@ -27,11 +27,14 @@ To run these apps locally with a live server, you need to clone this repo and ru
 
 ## Testing:
 
-The API was developed test driven using [RSpec](https://rspec.info/)
+The API was developed test driven using [RSpec](https://rspec.info/), [FactoryBot](https://github.com/thoughtbot/factory_bot#readme) and [Coveralls](https://docs.coveralls.io/)
 
-## Gems:
+## Additional gems:
 
-[devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth#readme) for token based authentication
+* [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth#readme) for token based authentication
+* [stripe-rails](https://github.com/tansengming/stripe-rails#readme) for handling requests to Stripe
+* [faker](https://github.com/faker-ruby/faker#readme) for seeding database with random but relevant content
+* we also use the service of [picsum photos](https://picsum.photos/) to serve random images for the articles
 
 # Endpoints documentation:
 
